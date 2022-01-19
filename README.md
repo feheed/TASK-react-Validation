@@ -1,16 +1,9 @@
-# TASK-NAME
+# University registration form
+you will create a form for students to register to a university 
 
-This is the template for tasks. These repos are the starting points and instructions for students to explore a concept.
-
-## Instructions
-
-Add instructions here. This is github flavoured markdown so you can be as creative as you want. Add code snippets, images, gifs, checkboxes, anything you want.
-
-### 1. Extract Components
-
-- [ ] Look at the html in `index.html`
-- [ ] Move it into `App.js`
-- [ ] Do you see those cards? Can you turn them into a component??
+### 1. Create a Form
+1. create a form that has the following inputs:
+  .  
 
 It should look like this:
 
