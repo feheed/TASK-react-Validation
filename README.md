@@ -3,7 +3,7 @@
 You will create a form for students to register to a university
 
 ### Steps:
-1. Fork and clone [this repository](___)
+1. Fork and clone [this repository](https://github.com/JoinCODED/TASK-react-Validation)
 2. Create a React app 
 3. Create a compoenet that has a form that has the following inputs:
    1. First name 
